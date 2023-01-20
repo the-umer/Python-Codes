@@ -7,4 +7,4 @@ In case, the list becomes too big in the future you can use `cmd + f` or `ctrl +
 
 - [Number to word converter](./programs/numbertoword.py)
 - [Rock Paper Scissors Game](./programs/rockpaperscissors.py)
-- [Python Article Scraper](articlescraper.py)
+- [Python Article Scraper](./programs/articlescraper.py)
