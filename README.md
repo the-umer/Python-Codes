@@ -6,3 +6,4 @@ This repository is the collection of various types of programs I write in the Py
 
 - [Number to word converter](./programs/numbertoword.py)
 - [Rock Paper Scissors Game](./programs/rockpaperscissors.py)
+- [Python Article Scraper](articlescraper.py)
