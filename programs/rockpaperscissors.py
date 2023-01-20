@@ -10,9 +10,9 @@ CEND = '\033[0m'
 
 def choosed_item_name(item_name):
     match item_name: 
-        case "R" : return "Rock"
-        case "P" : return "Paper"
-        case "S" : return "Scissors"
+        case "R" : return "Rock ( 🪨 )"
+        case "P" : return "Paper ( 📄 )"
+        case "S" : return "Scissors ( ✂️ )"
 
 def run_game():
     my_score = 0
@@ -61,7 +61,7 @@ def run_game():
 
 
 print(CGREENBG + "\n\t   ROCK PAPER SCISSORS GAME   " + CEND)
-print(CBLUEBG + "\n  This is a 5 round Rock Paper Scissors Game built in python.   "+ CEND)
+print(CBLUEBG + "\n  This is a 5 round Rock Paper Scissors Game built in python. Keep in mind that emoji's used in this script may or maynot work on some terminals. "+ CEND)
 while True:
     run_game()
     choice = input("\nDo you want to play again (y/n): ")
