@@ -9,7 +9,7 @@ In case, the list becomes too big in the future you can use `cmd + f` or `ctrl +
 ## List of Programs
 
 - [Number to word converter](./programs/numbertoword.py)
-- [Guess a Number](./guessnumber.py)
+- [Guess a Number](./programs/guessnumber.py)
 - [Rock Paper Scissors Game](./programs/rockpaperscissors.py)
 - [Python Article Scraper](./programs/articlescraper.py)
 - [Linear Search](./programs/linearsearch.py)
