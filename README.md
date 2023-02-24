@@ -19,3 +19,4 @@ In case, the list becomes too big in the future you can use `cmd + f` or `ctrl +
 - [Sum of first n numbers](./programs/sumofnnaturalnumbers.py)
 - [Factorial of a number using recursion](./programs/factorial.py)
 - [Armstrong Number Checker](./programs/armstrongnumber.py)
+- [Fibonacci Series](./programs/Fibonacci.py)

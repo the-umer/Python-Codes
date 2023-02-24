@@ -84,7 +84,7 @@ def hypbfun(hb):
 
 def expval():
     print("1. e^x\n2. 2^x\n3. 10^x")
-    ec = int(input("Enter your choice: "))
+    ec = int(input("Your choice: "))
     if ec == 1:
         x = float(input("Enter the power: "))
         print('e^', x, ':', exp(x))
@@ -116,8 +116,8 @@ while True:
                     b = int(b)
                     print(b, "! :", factorial(b))
                 case 10:
-                    a = float(input("Enter Base Value: "))
-                    print(a, '^', b, ':', pow(a, b))
+                    a = float(input("Enter Power: "))
+                    print(b, '^', a, ':', pow(b, a))
         else:
             match ch:
                 case 11:
