@@ -15,4 +15,4 @@ In case, the list becomes too big in the future you can use `cmd + f` or `ctrl +
 - [Linear Search](./programs/linearsearch.py)
 - [Binary Search](./programs/binarysearch.py)
 - [Bubble Sort](./programs/bubblesort.py)
-- [Fibonacci Series](./programs/fibonacci.py)
+- [Fibonacci Series](./programs/Fibonacci.py)
