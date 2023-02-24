@@ -12,7 +12,6 @@ def fab(n):
         b = sum
         n -= 1
 
-
 print()
 a = int(input("Enter a number upto which you want to print print Fabonacci Series: "))
 fab(a)
