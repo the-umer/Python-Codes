@@ -8,6 +8,7 @@ for i in range(2,n):
     else:
         continue
 
+
 if t>1:
     print(n,'is not a prime number.')
 else:
