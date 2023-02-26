@@ -21,3 +21,4 @@ In case, the list becomes too big in the future you can use `cmd + f` or `ctrl +
 - [Armstrong Number Checker](./programs/armstrongnumber.py)
 - [Fibonacci Series](./programs/Fibonacci.py)
 - [Prime Number or not](./programs/primenumber.py)
+- [Prime Numbers upto m](./programs/primenumberseries.py)
