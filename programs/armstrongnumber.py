@@ -7,10 +7,11 @@ Hence 153 is an armstrong number.
 
 def is_armstrong_number(num):
     n = num
+    a = len(str(n))
     sum_of_digits = 0
     while n > 0:
         x = n % 10
-        sum_of_digits += (x*x*x)
+        sum_of_digits += x**a
         n = int(n / 10)
     if sum_of_digits == num:
         return True
