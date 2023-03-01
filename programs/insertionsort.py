@@ -7,6 +7,7 @@ a = []
 for i in range(n):
     a.append(int(input()))
 print("Unsorted list: ",a)
+
 k = 1
 for k in range(k,n):
     temp = a[k]
