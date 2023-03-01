@@ -23,4 +23,5 @@ In case, the list becomes too big in the future you can use `cmd + f` or `ctrl +
 - [Prime Number or not](./programs/primenumber.py)
 - [Prime Numbers upto m](./programs/primenumberseries.py)
 - [Palindrome Program](./programs/palindrome.py)
+- [Insertion Sort](./programs/insertionsort.py)
 - [HCF of two numbers using Recursion](./programs/hcf.py)
