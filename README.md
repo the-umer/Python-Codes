@@ -15,6 +15,7 @@ In case, the list becomes too big in the future you can use `cmd + f` or `ctrl +
 - [Linear Search](./programs/linearsearch.py)
 - [Binary Search](./programs/binarysearch.py)
 - [Bubble Sort](./programs/bubblesort.py)
+- [Insertion Sort](./programs/insertionsort.py)
 - [Calculator](./programs/calculator.py)
 - [Sum of first n numbers](./programs/sumofnnaturalnumbers.py)
 - [Factorial of a number using recursion](./programs/factorial.py)
@@ -23,5 +24,4 @@ In case, the list becomes too big in the future you can use `cmd + f` or `ctrl +
 - [Prime Number or not](./programs/primenumber.py)
 - [Prime Numbers upto m](./programs/primenumberseries.py)
 - [Palindrome Program](./programs/palindrome.py)
-- [Insertion Sort](./programs/insertionsort.py)
 - [HCF of two numbers using Recursion](./programs/hcf.py)
