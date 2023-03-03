@@ -25,3 +25,4 @@ In case, the list becomes too big in the future you can use `cmd + f` or `ctrl +
 - [Prime Numbers upto m](./programs/primenumberseries.py)
 - [Palindrome Program](./programs/palindrome.py)
 - [HCF of two numbers using Recursion](./programs/hcf.py)
+- [Sum of elements in an Array](./programs/arraysum.py)
