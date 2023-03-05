@@ -17,6 +17,7 @@ In case, the list becomes too big in the future you can use `cmd + f` or `ctrl +
 - [Bubble Sort](./programs/bubblesort.py)
 - [Insertion Sort](./programs/insertionsort.py)
 - [Selection Sort](./programs/selectionsort.py)
+- [Quick Sort](./programs/quicksort.py)
 - [Calculator](./programs/calculator.py)
 - [Sum of first n numbers](./programs/sumofnnaturalnumbers.py)
 - [Factorial of a number using recursion](./programs/factorial.py)
