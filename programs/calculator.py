@@ -4,7 +4,7 @@ from math import *
 print("1. Addition\t\t9. Factorial\n2. Subtraction\t\t10. Power a^b")
 print("3. Multiplication\t11. Exponentional Value\n4. Division\t\t12. Log Value")
 print("5. Square\t\t13. Angular Conversion\n6. Square Root\t\t14. Trigonometric Value")
-print("7. Cube\t\t\t15. Hyperbolic Functions\n8. Cube Root\t\t16.")
+print("7. Cube\t\t\t15. Hyperbolic Functions\n8. Cube Root\t\t16. Number Conversion")
 print("\t\t0. Exit")
 print()
 
@@ -97,6 +97,20 @@ def expval():
     else:
         print("Wrong Input...")
 
+def numconv():
+    print("1. to binary\t2. to octal\t3. to hexadecimal")
+    c = int(input("Your Choice: "))
+    n = int(input("Enter a number to convert: "))
+    if c == 1:
+        print(bin(n))
+    elif c == 2:
+        print(oct(n))
+    elif c == 3:
+        print(hex(n))
+    else:
+        print("Wrong Input...")
+        
+
 
 while True:
     ch = int(input("Enter your choice: "))
@@ -138,6 +152,8 @@ while True:
                     print("1. Sinh(x)\t4. sinh-1(x)\n2. cosh(x)\t5. cosh-1(x)\n3. tanh(x)\t6. tanh-1(x)")
                     h = int(input("Your Choice: "))
                     hypbfun(h)
+                case 16:
+                    numconv()
                 case _:
                     print("Enter a valid choice...")
 
